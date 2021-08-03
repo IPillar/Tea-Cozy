@@ -7,6 +7,9 @@ html {
     text-align: center;
 }
 
+main {
+    width: 100%;
+}
 
 header img {
     height: 50px;
